@@ -1,0 +1,14 @@
+﻿  Bullet.cpp
+  BulletManager.cpp
+  Coord.cpp
+  ETManager.cpp
+  Extraterrestrial.cpp
+  main.cpp
+  Martian.cpp
+  Round.cpp
+c:\users\rlawrenc\source\repos\space invader\round.cpp(75): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Ship.cpp
+  UIKit.cpp
+c:\users\rlawrenc\source\repos\space invader\uikit.cpp(106): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Generating Code...
+  Space Invader.vcxproj -> C:\Users\rlawrenc\source\repos\Space Invader\Debug\Space Invader.exe
